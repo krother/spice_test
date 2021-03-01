@@ -4,3 +4,4 @@ chili
 oregano
 tarragon - newly added (March 1st, 2021)
 cinnamon - 14:15
+pavel's paprika
