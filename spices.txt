@@ -3,3 +3,6 @@ pepper
 chili
 oregano
 tarragon - newly added (March 1st, 2021)
+basil
+thyme
+lavender
