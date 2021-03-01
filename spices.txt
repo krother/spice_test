@@ -2,4 +2,4 @@ salt
 pepper
 chili
 oregano
-
+tarragon - newly added (March 1st, 2021)
